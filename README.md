@@ -1,2 +1,2 @@
 # python_2021
-https://thtmounika.github.io/python_2021/ tap here for quick review of my(Table_India) project.
+https://github.com/thtmounika/python_2021/blob/main/Assessment/Table_India.html tap here for quick review of my(Table_India) project.
